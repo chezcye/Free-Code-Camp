@@ -13,7 +13,6 @@
    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">
    <link href="https://github.com/chezcye/free-code-camp/blob/f2e2b5c51a11fd5870025b5505be8203ef323dd2/responsive-web-design/nutrition-label/styles.css" rel="stylesheet">
  </head>
-
  <body>
    <div class="label">
      <header>
