@@ -1,7 +1,7 @@
 <h1>Certification Project: Tribute Page</h1>
 <p><strong>Objective:</strong> Developed a tribute page for a subject of my choosing, fictional or real. Must fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. </p>
+ <p><u><strong>User Stories</strong></u></p>
 <ol type="1">
-  <u><strong>User Stories</strong></u>
   <li> Your tribute page should have a <strong>main</strong> element with a corresponding <strong>id</strong> of <strong>main</strong>, which contains all other elements</li>
   <li>You should see an element with an <strong>id</strong> of <strong>title</strong>, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")</li>
     <li>You should see either a <strong>figure</strong> or a <strong>div</strong> element with an <strong>id</strong> of img-div</li>
