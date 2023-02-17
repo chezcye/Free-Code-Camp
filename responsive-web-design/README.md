@@ -6,7 +6,7 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid. </p>
 <p><strong>These are the required projects to earn the Responsvie Web Design Certificate:</strong><p>
 <ul>
-  <li><a href="">Survey Form</a></li>
+  <li>Survey Form</li>
   <li><a href="https://github.com/chezcye/free-code-camp/tree/main/responsive-web-design/tribute-page">Tribute Page</a></li>
   <li> Technical Documentation Page</li>
   <li> Product Landing Page</li>
