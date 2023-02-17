@@ -5,19 +5,23 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     </head>
     <body>
-        <!-- Users Stories #1: Your tribute page should have a main element with a corresponding id of main, which contains all other elements -->
+        <!-- User Story #1: Your tribute page should have a main element with a corresponding id of main, which contains all other elements-->
         <main id="main">
             <div class="row">
                 <div class="col-md-6">
                     <div id="img-div" class="well">
+                        <!-- User Story #2: You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug") -->
                         <h1 id="title">A Tribute to my Mama</h1>
                         
                     </div>
                     <div class="well">
-                        <p> In high school, our English teacher tasked us with writing a <a id="tribute-link" href="https://en.wikipedia.org/wiki/Haiku" target="_blank"> Haiku poem</a> about the person we love the most. 
-                            I chose to write my haiku about my mother who passed away just a week before this assignment was given. 
+                        <p> In high school, our English teacher tasked us with writing a 
+                            <!--User Story #7: You should see an a element with a corresponding id="tribute-link", which links to an outside site, that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab-->
+                            <a id="tribute-link" href="https://en.wikipedia.org/wiki/Haiku" target="_blank"> Haiku poem</a> 
+                            about the person we love the most. I chose to write my haiku about my mother who passed away just a week before this assignment was given. 
                         </p>
                     </div>
+                    <!-- User Story #6: You should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page -->
                     <div id="tribute-info" class="well">
                         <p><strong>A:</strong> The one I loved the most is my mama.</p> 
                         <p><strong>B:</strong> Her passing has brought me closer for sure.</p>
@@ -39,14 +43,12 @@
                     </div>
                 </div>
                 <div class="col-md-6">
+                    <!-- User Story #3: You should see either a figure or a div element with an id of img-div -->
                     <div id="img-div" class="well">
+                        <!-- User Story #4: Within the #img-div element, you should see an img element with a corresponding id="image" -->
                         <img id="image"  class="justify-content-center" src="../IMG_7571.jpg" />
+                        <!-- User Story #5:  Within the #img-div element, you should see an element with a corresponding id="img-caption" that contains textual content describing the image shown in #img-div -->
                         <div id="img-caption" class="caption">Forever my Mama</div>
-                    </div>
-                </div>
-
-                
-                        </div>
                     </div>
                 </div>
             </div>
