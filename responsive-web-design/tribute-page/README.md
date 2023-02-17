@@ -1,7 +1,9 @@
 <h1>Certification Project: Tribute Page</h1>
 <p><strong>Objective:</strong> Developed a tribute page for a subject of my choosing, fictional or real. Must fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. </p>
-<ol>User Stories</ol>
+<ol type="1">
+  User Stories
 <li> Your tribute page should have a main element with a corresponding id of main, which contains all other elements</li>
+  </ol>
 
 <a href="https://htmlpreview.github.io/?https://github.com/chezcye/free-code-camp/blob/283575abe686558d481f5cc59f6a63e0979b5730/responsive-web-design/tribute-page/index.html" target="_blank">
   A Tribute to my Mama
