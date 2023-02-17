@@ -4,7 +4,7 @@
 First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid. </p>
-<p>These are the required projects to earn the Responsvie Web Design Certificate:<p>
+<p><strong>These are the required projects to earn the Responsvie Web Design Certificate:</strong><p>
 <ul>
   <li><a href="">Survey Form</a></li>
   <li><a href="https://github.com/chezcye/free-code-camp/tree/main/responsive-web-design/tribute-page">Tribute Page</a></li>
