@@ -4,14 +4,14 @@
   <li> Responsive Web Design Certfication</li>
   <li> JavaScript Algorithms and Data Structures Certfication</li>
   <li> Front End Development Libraries Certfication</li>
-  <li> Responsive Web Design Certfication</li>
-  <li> Responsive Web Design Certfication</li>
-  <li> Responsive Web Design Certfication</li>
-  <li> Responsive Web Design Certfication</li>
-  <li> Responsive Web Design Certfication</li>
-  <li> Responsive Web Design Certfication</li>
-  <li> Responsive Web Design Certfication</li>
-  <li> Responsive Web Design Certfication</li>
+  <li> Data Visualization Certfication</li>
+  <li> Relational Database Certfication</li>
+  <li> Back End Development and APIs Certfication</li>
+  <li> Quality Assurance Certfication</li>
+  <li> Scientific Computing with Python Certfication</li>
+  <li> Data Analysis with Python Certfication</li>
+  <li> Information Security Certfication</li>
+  <li> Coding Interview Prep Certfication</li>
 </ul>
 
 
