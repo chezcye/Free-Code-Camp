@@ -3,7 +3,7 @@
 <ol type="1">
   <u><strong>User Stories</strong></u>
   <li> Your tribute page should have a <strong>main</strong> element with a corresponding <strong>id</strong> of <strong>main</strong>, which contains all other elements</li>
-  <li>You should see an element with an <strong>id<strong> of <strong>title</strong>, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman           Borlaug")</li>
+  <li>You should see an element with an <strong>id</strong> of <strong>title</strong>, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")</li>
     <li>You should see either a <strong>figure</strong> or a <strong>div</strong> element with an <strong>id</strong> of img-div</li>
   <li>Within the #img-div element, you should see an img element with a corresponding id="image"</li>
   <li>Within the #img-div element, you should see an element with a corresponding id="img-caption" that contains textual content describing the image shown in #img-div</li>
